@@ -1,4 +1,5 @@
-# Hi:wave:	I am Vadim Stolyar
+# Hi,	I am Vadim Stolyar 
+:wave:
 
 ## My contacts :pager:
 
@@ -23,7 +24,7 @@ _..for now_
  - Git (remote service GitHub)
  - Photoshop
  
-## Education :student:	
+ ## Education :student:	
  
 [**BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS**](https://www.bsuir.by/)
  
