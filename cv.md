@@ -1,7 +1,7 @@
 # Hi,	I am Vadim Stolyar 
-:wave:
 
-## My contacts :pager:
+
+## My contacts
 
  - __Phone:__ +375 29 5769813
  
@@ -13,22 +13,23 @@
  
  - __Telegram:__ [Вадзiq](t.me/Megu_next)
  
-## About Myself :hugs:
+## About Myself
 
 I'm worked for ISPs such as [Qline](https://qline.by/), [Flynet](https://flynet.by/), [Mts](https://www.mts.by/) with my hand. 
-Now it's time to work with my head:smirk:	I wanna learn Front-End Development!
+Now it's time to work with my head.
+I wanna learn Front-End Development!
 
-## Skills :muscle:	
+## Skills
 
 _..for now_
  - Git (remote service GitHub)
  - Photoshop
  
- ## Education :student:	
+## Education	
  
 [**BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS**](https://www.bsuir.by/)
  
-## Language :speak_no_evil:
+## Language
  
   - **Russian** - native
   - **English** - A2
