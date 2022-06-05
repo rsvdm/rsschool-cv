@@ -1,0 +1,9 @@
+.paragraph{
+    background: transparent;
+    border: 0;
+    color: #C3F53C;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    font-family: Maison Neue Extended
+}
