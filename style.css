@@ -1,0 +1,143 @@
+
+body {
+    background: linear-gradient(45deg, rgb(226, 226, 226), rgb(34, 34, 34));
+    margin-left: auto;
+    margin-right: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%, cover;
+    min-height: 100vh;
+}
+
+header {
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+}
+
+header a {
+    color: #C3F53C;
+    transition: .7s;
+    display: inline-block;
+    
+}
+
+header a:hover {
+    color: #ff9100;
+}
+
+table {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans;
+    width: 70%;
+    margin: 0px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: fixed;
+}
+
+header td {
+    width: 11.6%;
+    text-align: center;
+}
+
+.ava {
+    border-radius: 50px;
+    border: 2px solid #5f5f5f;
+    float: right;
+    height: 220px;
+    margin: 3px;
+}
+
+.title {
+    margin-top: 130px;
+}
+
+h2 {
+    padding-top: 180px;
+    margin-top: -140px;
+}
+
+
+
+div {
+    background: linear-gradient(90deg,#c3f53c,#bbff0075);
+    width: 60%;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 20px; 
+    font-family: sans;
+    border-top: 3px solid #5f5f5f;
+    border-left: 3px solid #5f5f5f;
+    border-top-left-radius: 33px;
+}
+
+div a {
+    color: #5f5f5f;
+    transition: 1s;
+
+}
+
+div a:hover {
+    color: #ff9100;
+}
+
+@keyframes link {
+    from {
+        transform: scaleX(1);
+    }
+    50% {
+        transform: scaleX(-1);
+    }
+    to {
+        transform: scaleX(1);
+    }
+}
+.alink {
+    width: 10%;
+}
+
+.alink:hover {
+    animation: link 1s ease-in-out infinite;
+}
+
+pre {
+    border:3px dotted rgb(61, 61, 61);
+    border-radius: 10px;
+    width: 400px;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+video {
+    border:3px solid #5f5f5f;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+
+footer {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    font-family: sans;
+    font-size: large;
+}
+   
+
+
+
+  
+
